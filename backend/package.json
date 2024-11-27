@@ -4,6 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "@types/express": "types/express",
+    "express": "^4.21.1",
     "typescript": "^5.7.2"
   }
 }
